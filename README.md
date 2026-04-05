@@ -48,5 +48,5 @@
 ###
 
 ### ✨ Küçük Not
-> “Öğren,Öğren,daha çok Öğren...” – Bilinmeyen Bir Geliştirici
+> “One piece izleyin!” – Bilinmeyen Bir Geliştirici
 
