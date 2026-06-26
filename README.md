@@ -1,43 +1,30 @@
-<h1 align="center">🌀 Omer - </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Kod+yazmak+bir+eğlencedir+🧙‍♂️;Linux%E2%9C%94%EF%B8%8FPython%E2%9C%94%EF%B8%8FWeb+Dev%E2%9C%94%EF%B8%8F;Merak+et%2C+ara%C5%9Ft%C4%B1r%2C+in%C5%9Fa+et!+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif"/>
-</p>
+# 👨‍💻 Omer
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abulomer2001@gmail.com)
 
 ---
 
-### 🧑‍💻 Hakkımda
+</div>
 
-- 🧠 **Python**, **HTML/CSS**, **C**, **Linux** ve biraz da **JavaScript** ile ilgileniyorum  
-- 🌱 Şu anda kendimi geliştiriyorum: `Back-End`, `CLI Tool'lar`, `Linux sistem yönetimi`
-- ⚡ Hedefim: Katkı vermek, öğrenmek, üretmek!
+## 🎯 About Me
 
----
-
-### 🛠️ Kullandığım Teknolojiler
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,js,linux,c" />
-</p>
+"I'm a student, so I don't know everything. I'm still learning and improving myself, and I'm making things for fun. It's not for serious work."
 
 ---
 
-### 🌐 Sosyal Medya & İletişim
+## 💼 Technical Stack
 
-<p align="center">
-  <a href="https://discord.com/users/kalaraja_15011" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:abulomer2001@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-###
+## 📊 GitHub Statistics
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abulomer/abulomer/output/pacman-contribution-graph-dark.svg">
@@ -45,8 +32,31 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abulomer/abulomer/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
-### ✨ Küçük Not
-> “One piece izleyin!” – Bilinmeyen Bir Geliştirici
+## 🎓 Development Philosophy
 
+> **"Write code that solves problems. Build tools that scale. Contribute to communities."**
+
+I believe in:
+- ✅ Making things for fun
+- ✅ If it works, don't touch it
+- ✅ Continuous learning and improvement
+- ✅ Open-source is the way
+- ✅ Watching One Piece
+
+---
+
+## 📬 Get In Touch
+
+- 📧 **Email**: [abulomer2001@gmail.com](mailto:abulomer2001@gmail.com)
+
+---
+
+<div align="center">
+
+**Let's build something amazing together!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=abulomer&color=00FFB3&style=flat-square)
+
+</div>
