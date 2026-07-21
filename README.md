@@ -43,7 +43,7 @@ I believe in:
 - ✅ If it works, don't touch it
 - ✅ Continuous learning and improvement
 - ✅ Open-source is the way
-- ✅ Watching One Piece
+- ✅ Watch One Piece
 
 ---
 
