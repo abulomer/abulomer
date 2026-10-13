@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Omer
+# 🌀 Omer
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abulomer2001@gmail.com)
 
